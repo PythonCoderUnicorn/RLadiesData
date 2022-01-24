@@ -1,0 +1,55 @@
+X,Y,OBJECTID,NEIGHBORHOOD,NAME,ADDRESS,ADDRESS_NOTES,DAY,TIME,MONTHS,ACCEPT_SNAP_ACCESS,ACCEPT_FMNP,ACCEPT_PHILLY_FOOD_BUCKS_,MAJOR_BUS_SUBWAY_ROUTES
+-75.1215584811801,39.9784309307864,1,Bridesburg Kensington Port Richmond,Greensgrow Farm Stand,2501 E. Cumberland Ave,NA,Mon-Sun,"Mon-Fri 10am-5pm, Sat-Sun 10am-4pm",Late May - November,Y,Y,NA,"25, 39, 43, 89"
+-75.13365365775418,39.982974473539414,2,Bridesburg Kensington Port Richmond,Norris Square Neighborhood Project,2141 N. Howard St,Between Norris St and Susquehanna Ave,Wed,11am-1pm,May - November,Applied,Applied,NA,"3, 39, 89"
+-75.10946533619257,39.982549566844774,3,Bridesburg Kensington Port Richmond,Powers Park,Almond and E. Ann St,NA,Thurs,3-7pm,May - November,NA,Y,NA,"15B, 54, 60"
+-75.17067028026975,39.95014093264238,4,Center City,Rittenhouse,18th and Walnut St.,NA,Tues & Sat,"Tues 10am-2pm, Sat 9am-3pm",Tues- June - November; Sat- Year round,NA,Y,NA,"9, 17"
+-75.18113586771952,39.94901762926063,5,Center City,Schuylkill River Park,25th and Spruce St,NA,Wed,3-7pm,May 17th - late October,NA,Y,NA,"7, 12, 40"
+-75.1739859733517,39.967323225718374,6,Center City,Fairmount,N. 22nd St. and Fairmount Ave.,NA,Thurs,3-7pm,June 1st - November,Y,Y,NA,"7, 32, 33, 48, PHLASH"
+-75.15706422067706,39.9500159958506,7,Center City,Jefferson,10th and Chestnut St.,NA,Thurs,11am-3pm,May - November,McCanns Farm,Y,NA,"MFL (8th or 11th st stop), 47"
+-75.17932423670516,39.9473405553032,8,Center City,Fitler Square Park,23rd and Pine St.,NA,Sat,9am-2pm,Open year round,Y,Y,NA,"7, 12, 40"
+-75.14545198126466,39.94216938800931,9,Center City,Headhouse,2nd and Lombard St.,NA,Sun,10am-2pm,Open year round,Y,Y,NA,"12, 40, 57"
+-75.1594374002991,39.953962787563235,10,Center City,Reading Terminal Market,12th and Arch St,NA,"Mon - Sat, Sun","Mon - Sat 8am - 6pm, Sun 9am - 5pm",Year round,Y,Y,NA,"31, 38, 48"
+-75.1594374002991,39.953962787563235,11,Center City,Fair Food Farmstand,12th and Arch St,Reading Terminal Market,"Mon - Sat, Sun","Mon - Sat 8am - 6pm, Sun 9am - 5pm",Year round,Y,NA,NA,"31,33,38"
+-75.14555131366306,39.950795615848065,12,Center city,Christ Church,"On Church St, between 2nd and 3rd St",NA,Wed,2-7pm,May - Late Fall,NA,Y,NA,"48, 57"
+-75.14568105766296,39.95018694602608,13,Center City,High Street,3rd & Market St,In front of Fork Restaurant and  High Street Market,Sat,10am-2pm,Mid/late May-October,NA,NA,NA,"MFL (2nd st stop), 17, 33, 48, 57"
+-75.16677065904307,40.03473423697803,14,Germantown Chestnut Hill,Germantown Kitchen Garden,215 E. Penn St,NA,Sat,9am-1pm,May - October,Y,Y,NA,23
+-75.171005656639,40.0272008023039,15,Germantown Chestnut Hill,Hansberry Garden and Nature Center,5150 Wayne Ave,Corner of Wayne Ave and Hansberry St,Every other Sun,11am-2pm,July - Sept,NA,NA,NA,"53, X, XH"
+-75.1925825608809,40.00744848398554,16,Germantown Chestnut Hill,East Falls,Kelly Dr & N. Ferry Rd,In parking lot under Route 1,Sat,10am-2pm,June - November,Y,Y,NA,61
+-75.1967302963316,40.06742653176103,17,Germantown Chestnut Hill,Chestnut Hill Farmers’ Market,Winston Rd. btw Germantown Ave. & Mermaid Lane,NA,Sat,9am – 1pm,Open year round (Dec-April 10am-12pm),NA,Y,NA,"23, 77, L, Chestnut Hill Line, Chestnut Hill West Line"
+-75.09105018332326,40.038216989524685,18,Lower Northeast,Oxford Circle,900 East Howell St.,Parking lot in front of Oxford Circle Mennonite Church,Thurs,2-6pm,June 15th– November,Y,Y,NA,"19, 24, 67"
+-75.15780678109802,39.97868299353001,19,North,Cecil B. Moore,Cecil B. Moore Ave between Broad and 13th,NA,Thurs,2-6pm,June 1st – November,Y,Y,NA,"4, 16, BSS"
+-75.1708493983673,39.98036144550871,20,North,N. Philly YMCA- Stephen Klein Center,2144 Cecil B. Moore Ave,Near the Stephen Klein Wellness Center,1st & 3rd Wed,11am-3pm,May- November,Y,Y,NA,"3,33"
+-75.14718575696938,40.01661868954811,21,North,Hunting Park,W. Hunting Park Ave. and Old York Ave,NA,Sat,10am-2pm,May 27th- November 19th,Y,Y,NA,"BSS (Hunting Park stop), 4,23"
+-75.14376042744925,40.03805600018816,22,North,Park and Tabor,N. Park Ave. and W. Tabor Rd,Near Einstein Medical Center,Tues,2-6pm,May 23rd - November,Y,Y,NA,"18, 26, BSS"
+-75.13835393883552,39.99186093354672,23,North,4th and Lehigh,4th St & Lehigh Ave.,NA,Tues,12-4pm,July 11th - Early Sept,Y,Y,NA,"47, 54"
+-75.14981840293562,39.99054952188285,24,North,11th & Dauphin,2515 N. 11th St,NA,1st Fri & 2nd Sat,"1st Fri 5-8pm, 2nd Sat 12-4pm",NA,Y,NA,NA,"23, 39"
+-75.18706215742662,39.98867450798165,25,North,33rd & Diamond,33rd & Diamond St,In front of Mander Playground,Wed,2-6pm,June 7th -November,Y,Y,NA,"7, 32, 39, 54, 61"
+-75.17764388972789,40.0055765473145,26,North,SHARE Nice Roots Farm,2901 W. Hunting Park Ave,NA,Tues & Thurs,2-4pm,May - November,Y,Y,NA,R
+-75.17228194128882,40.00409636805682,27,North,26th and Allegheny,26th St and Allegheny Ave,NA,Wed,1-5pm,July 12th - early Sept,Y,Y,NA,"48, 60"
+-75.07684370402595,40.02326706458211,28,Northeast,Frankford Transportation Center,Frankford and Bustleton Ave,NA,Tues,2-6pm,June 6th - Late October,Y,Y,NA,MFL
+-75.04076212241107,40.03681944355437,29,Northeast,Mayfair,3500 block of Ryan Ave,NA,1st & 3rd Thurs,5-9pm,June - October,NA,NA,NA,"66, 70"
+-75.2195711050108,40.049019099516904,30,Northwest,Henry Got Crops!,7095 Henry Ave,At Saul High School,"Tues, Fri",Tues & Fri 12-7pm,May 13th - October,Y,Y,NA,27
+-75.19591535261794,40.046386615997875,31,Northwest,Mt. Airy,Carpenter Lane and Greene St.,NA,Thurs,3-7 pm,June 29th - August 31st,NA,Y,NA,H
+-75.16853703723113,40.031977105096225,32,Northwest,Gumblethorpe House,5267 Germantown Ave,NA,Sat,9:30am-1:30pm,May - Sept,Y,Y,NA,23
+-75.15351600035832,40.06429504519065,33,Olney Oak Lane,West Oak Lane,Ogontz Ave and Walnut Lane,NA,Tues,2-6pm,July 11th - November 22nd,Y,Y,NA,"6, XH"
+-75.2212958875633,40.03752814448086,34,Roxborough Manayunk,Gorgas Park,Ridge Ave and Acorn St.,NA,Fri,3-7pm,May  - November,Y,Y,NA,9
+-75.22083223668074,40.02598746825804,35,Roxborough Manayunk,Pretzel Park,4300 Silverwood St,NA,Sat,10am-2pm,May – November,NA,NA,NA,"27, 61"
+-75.1597432066858,39.92309310155022,36,South,Novick Family Urban Farm Stand,8th St and Snyder Ave,NA,Wed,2-6pm,NA,Y,Y,NA,NA
+-75.18142207117535,39.93217094012094,37,South,22nd & Tasker,22nd and Tasker St.,NA,Wed,2-6pm,July 12th- early Sept,Y,Y,NA,NA
+-75.16962993890466,39.924381326877864,38,South,Broad and Snyder,Broad and Snyder St.,NA,Tues,2-6pm,June  13th – Late September,Y,Y,NA,BSS
+-75.16308924570085,39.9298098088771,39,South,Fountain,East Passyunk Ave at 11th and Tasker St.,NA,Wed,3-7pm,May - November,NA,Y,NA,"23, 29"
+-75.15116236616238,39.926971311433185,40,South,Dickinson Square,East Moyamensing Ave. and Morris St.,NA,Sun,10am-2pm,May - November,Y,Y,NA,"2,29,47,57"
+-75.21607632507788,39.93275162341126,41,Southwest,Sankofa Community Farm at Bartram’s Garden,54th & Lindbergh Blvd,At the entrance to Bartram's Garden,Thurs,3:30-6:30pm,June-November,Y,Y,NA,36 trolley
+-75.22853605914037,39.93574181939256,42,Southwest,58th & Chester,58th St and Chester Ave,NA,Wed,2-6pm,July 12th -November,Y,Y,NA,"13 trolley, G"
+-75.22459303450667,39.96490510654071,43,West,52nd & Haverford,52nd St and Haverford Ave.,NA,Wed,12-4pm,July 12th – November,Y,Y,NA,"30, 52"
+-75.20926194874177,39.949550820199,44,West,Clark Park,43rd St. and Baltimore Ave.,NA,Thurs & Sat,"Thurs 3-7pm, Sat 10am-2pm","Thurs open June 1st – November, Sat open year round",Y,Y,NA,"13, 30, 34"
+-75.2263309514294,39.94778425087206,45,West,Greensgrow West,5123 Baltimore Ave,NA,"Mon, Thur-Sun","Mon & Thurs & Fri 10am-6pm, Sat & Sun 10am-4pm",NA,Y,NA,NA,NA
+-75.25400244069333,39.98831396303345,46,West,Overbrook,Lancaster & City Ave,At the Overbrook Presbyterian Church,Sat,9am-1pm,May 20th– November,Y,Y,NA,"65, 105, G, R5 Paoli-Thorndale Line"
+-75.21667922759649,39.99736111534399,47,West,Heritage Farm,4300 Monument Rd,NA,Thurs,3:30-5:30pm,May 18th - September,Y,Y,NA,"38, 40"
+-75.19478910557604,39.95315132613959,48,West,University Square,36th and Walnut St.,NA,Wed,10am-5pm,March - end of November,NA,Y,NA,21
+-75.1957410468211,39.95967409065111,49,West,Lancaster Ave,Lancaster Ave and Powelton St.,NA,Sat,10am-4pm,May-end of Oct,Y,Y,NA,31
+-75.20981104332222,39.973531020486845,50,West,42nd and Girard,4159 W. Girard Ave,First African Presbyterian Church,2nd Fri,1-5pm,June- October,Y,Y,NA,"15 trolley, 40 bus"
+-75.22451541332491,39.958387658277125,51,West,W. Philly YMCA Market,5120 Chestnut St,At the West Philly YMCA,1st & 3rd Fri,10am-2pm,May - November,Y,Y,NA,NA
+-75.22689788368979,39.9693858149367,52,West,Neighborhood Foods Farm,608 N. 53rd St,Near Neighborhood Foods Farm,Sat,10am-2pm,May – November,Y,Y,NA,52
+-75.21351781999088,39.95860359515978,53,West,Walnut Hill,4601 Market St,NA,Thurs,3-7pm,May- November,Y,Y,NA,"MFL (46th st stop), 30, 31, 64"
+-75.21855916977563,39.966137386124046,54,West,Mill Creek Farm,4901 Brown St,Between 49th and 50th Streets,Sat,11am-2pm,June 10th- December,Y,Y,NA,"30, 52, 64"
