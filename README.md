@@ -7,5 +7,7 @@ RLadies data pkg is a dataset package for RLadies meetups, to have datasets that
 
 
 You can install this package with
-`remotes::install_github("PythonCoderUnicorn/RLadiesData")`
+```
+remotes::install_github("PythonCoderUnicorn/RLadiesData")
+```
 
