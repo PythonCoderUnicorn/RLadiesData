@@ -1,0 +1,21 @@
+#' RLadiesData
+#'
+#' The World Happiness Report (2016) ranks 156 countries by their happiness levels.
+#'
+#' @format A tibble with 157 rows and 14 variables:
+#' \describe{
+#'   \item{Country}{chr The name of the Country}
+#'   \item{Region}{chr The geographical region of the Country}
+#'   \item{Happiness.Rank}{int The value of happiness. There are 6 factors that were calculated into the score : GDP, social suppot, health life expectancy, life choices freedom, generosity and perceptions of corruption. The lower the value the happier ranking.}
+#'   \item{Happiness.Score}{num The statistical average for the happiness scores.}
+#'   \item{Lower.Confidence.Interval}{num The lower confidence interval for happiness score.}
+#'   \item{Upper.Confidence.Interval}{num The upper confidence interval for happiness score.}
+#'   \item{Economy.GDP.per.capita}{num The Gross Domestic Gross of a country in terms of Purchasing Power Parity used by World Development Indicators (WDI)}
+#'   \item{Family}{num Average of family happiness ranking}
+#'   \item{Health.Life.Expectancy}{num The average for health and life expectancy scores. }
+#'   \item{Freedom}{num The average score of personal freedoms}
+#'   \item{Trust.Government.Corruption}{num The average score of level of personal trust in government}
+#'   \item{Dystopia.Residual}{num The statistical residual affect of dystopian views and life.}
+#' }
+#' @source \url{RLadies Freiburg}
+"Happiness"
