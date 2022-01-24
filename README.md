@@ -22,6 +22,7 @@ RLadiesData::Happiness
 ```
 
 Available datasets are:
+
 - CountryCapitals
 - Happiness
 - PhillyFarmersMarket
