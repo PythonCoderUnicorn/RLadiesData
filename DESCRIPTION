@@ -4,7 +4,7 @@ Version: 0.0.1
 Authors@R: 
     person("Zane", "Dax", , "neptunium0237@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Description: This is pakcage for datasets used in RLadies meetups.
 License: CC BY 4.0
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
